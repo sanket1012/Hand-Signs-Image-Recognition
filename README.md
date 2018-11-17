@@ -1,4 +1,4 @@
-# NN-Model-to-recognize-numbers-in-sign-lang
+# Hand Signs Image Recognition
 
 In this project I have build a neural network using tensorflow.  
 
